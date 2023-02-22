@@ -13,10 +13,14 @@
 ~~strikethrough~~
 
 
+[comment]: <> (Embed code Note: adding the 'java' is optional - adding it formats the key terms and syntax like the language)
+
 ```java
 System.out.println("Hello World");
 System.out.println("I Love Git");
 ```
+
+[comment]: <> (Make a horizontal line / section devide)
 
 ---
 
