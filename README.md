@@ -7,6 +7,19 @@
 [comment]: <> (Using 3 # symbol makes a Sub-sub-Header)
 ### Sub-sub header
 
+### Some Syntax
+*Italics*
+**Bold**
+~~strikethrough~~
+
+
+```java
+System.out.println("Hello World");
+System.out.println("I Love Git");
+```
+
+---
+
 [comment]: <> (Making Bullets or Numbered Lists)
 
 ### Bullets
