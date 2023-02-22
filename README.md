@@ -30,4 +30,4 @@
 5. List
 
 ## Media
-[!alt](https://t4.ftcdn.net/jpg/04/34/08/53/360_F_434085394_Z8iB9TJiNwhCWBekHi1BTBURGYfPveeL.jpg)
+![alt](https://t4.ftcdn.net/jpg/04/34/08/53/360_F_434085394_Z8iB9TJiNwhCWBekHi1BTBURGYfPveeL.jpg)
