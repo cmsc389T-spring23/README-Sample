@@ -36,9 +36,12 @@
 
 [comment]: <> (For hyperlink put the text you want the user to click in [] and the url in ())
 
+
 [Hyperlink](https://bit.camp)
 
+
 [comment]: <> (For Images, first put ![alt] then in the () put either the URL to the image OR the path and name to the image if its a file in your repository)
+
 
 ![alt](https://t4.ftcdn.net/jpg/04/34/08/53/360_F_434085394_Z8iB9TJiNwhCWBekHi1BTBURGYfPveeL.jpg)
 
